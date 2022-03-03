@@ -1,0 +1,31 @@
+body {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.header {
+    background-image: linear-gradient(#d5f79e, #9ef7e1);
+}
+h1 {
+    font-size: 40px;
+    color: rgb(80, 98, 255);
+    font-variant: small-caps;
+    letter-spacing: 5px;
+}
+.main_div {
+    background-image: linear-gradient(#d5f79e, #9ef7e1);
+    height: 85%;
+    margin-top: 0px;
+}
+.footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: rgb(168, 155, 155);
+    font-size: 15px;
+    text-shadow: 3px 3px rgb(223, 212, 212);
+}
+#button_main {
+      width: 150px;
+      margin-top: 30px;
+      letter-spacing: 7px;
+      font-weight: bolder;
+}
